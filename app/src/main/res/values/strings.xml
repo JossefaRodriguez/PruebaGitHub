@@ -6,8 +6,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="home_text">Home Fragment</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="dashboard_text">Dashboard</string>
-    <string name="notification_text">Notification</string>
+    <string name="dashboard_text">Dashboard Fragment</string>
+    <string name="notification_text">Notification Fragment</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
